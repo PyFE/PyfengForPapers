@@ -13,7 +13,11 @@ PyfengForPapers hosts a collection of the Py notebooks (`.ipynb`) that use [`PyF
 * If running on your modified implementation, 
   * Make a local copy of [PyFENG repository](https://github.com/PyFE/PyFENG/) by forking or download.
   * Make necessary modifications.
-  * Uncomment the following lines in the first cell of notebook file. Then, the local `PyFENG` will be used.
+  * Uncomment the following lines in the beginning of notebook file. Then, the local `PyFENG` will be used.
+    ```py
+    %load_ext autoreload
+    %autoreload 2
+    ```
     ``` py
     import sys
     sys.path.insert(sys.path.index('')+1, 'PATH_TO_LOCAL_PYFENG')
