@@ -31,4 +31,4 @@ PyfengForPapers hosts a collection of the Py notebooks (`.ipynb`) that use [`PyF
   * Antonov, A., & Spector, M. (2012). Advanced analytics for the SABR model. Available at SSRN. https://ssrn.com/abstract=2026350 
   * Antonov, A., Konikov, M., & Spector, M. (2013). SABR spreads its wings. Risk, 2013(Aug), 58–63.
   * Antonov, A., Konikov, M., & Spector, M. (2019). Modern SABR Analytics. Springer International Publishing. https://doi.org/10.1007/978-3-030-10656-0
-* Choi, J., Liu, C., & Seo, B. K. (2019). Hyperbolic normal stochastic volatility model. Journal of Futures Markets, 39(2), 186–204. https://doi.org/10.1002/fut.21967
+* [Py Notebook](ipynb/ChoiEtAl2019-Fut-NSVh.ipynb) | Choi, J., Liu, C., & Seo, B. K. (2019). Hyperbolic normal stochastic volatility model. Journal of Futures Markets, 39(2), 186–204. https://doi.org/10.1002/fut.21967
