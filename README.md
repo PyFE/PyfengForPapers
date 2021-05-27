@@ -26,7 +26,7 @@ PyfengForPapers hosts a collection of the Py notebooks (`.ipynb`) that use [`PyF
 ## List of Implemented Papers 
 * [Py Notebook](ipynb/ChoiEtAl2021-BachlierModel.ipynb) | Choi, J. et al. (2021). A Black-Scholes user's guide to the Bachelier model. Working Paper. https://arxiv.org/abs/2104.08686
 * [Py Notebook](ipynb/ChoiWu2021-QF-NoteOnMassZero.ipynb) | Choi, J., & Wu, L. (2021). A note on the option price and 'Mass at zero in the uncorrelated SABR model and implied volatility asymptotics.' Quantitative Finance (Forthcoming). https://doi.org/10.1080/14697688.2021.1876908 
-* [Py Notebook](ipynb/ChoiWu2021-JEDC-SABR-CEV.ipynb) | Choi, J., & Wu, L. (2021). The equivalent constant-elasticity-of-variance (CEV) volatility of the stochastic-alpha-beta-rho (SABR) model. Journal of Economic Dynamics and Control (Forthcoming). http://arxiv.org/abs/1911.13123
+* [Py Notebook](ipynb/ChoiWu2021-JEDC-SABR-CEV.ipynb) | Choi, J., & Wu, L. (2021). The equivalent constant-elasticity-of-variance (CEV) volatility of the stochastic-alpha-beta-rho (SABR) model. Journal of Economic Dynamics and Control, 128, 104143. https://doi.org/10.1016/j.jedc.2021.104143
 * [Py Notebook](ipynb/KrekelEtAl2004-Wilmott-BasketOption.ipynb) (partially implemented) : Krekel, M., de Kock, J., Korn, R., & Man, T.-K. (2004). An analysis of pricing methods for basket options. Wilmott Magazine, 2004(7), 82–89.
 * [Py Notebook](ipynb/AntonovEtAl-2012-SSRN-SABR.ipynb) | Several SABR Model papers by Antonov and co-authors.
   * Antonov, A., & Spector, M. (2012). Advanced analytics for the SABR model. Available at SSRN. https://ssrn.com/abstract=2026350 
