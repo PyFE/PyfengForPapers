@@ -24,7 +24,8 @@ PyfengForPapers hosts a collection of the Py notebooks (`.ipynb`) that use [`PyF
     ```
 
 ## List of Implemented Papers 
-* [Py Notebook](ipynb/ChoiEtAl2022-Fut-BachlierModel.ipynb) | Choi, J. et al. (2022). A Black-Scholes user's guide to the Bachelier model. Journal of Futures Markets (Forthcoming), https://doi.org/10.1002/fut.22315 [[arXiv](https://arxiv.org/abs/2104.08686)].
+* [Py Notebook](ipynb/ChoiChen2022-JDQS-RiskParity.ipynb) | Choi, J. & Chen, R. (2022). Improved iterative methods for solving risk parity portfolio. Journal of Derivatives and Quantitative Studies 30(2). DOI: [10.1108/JDQS-12-2021-0031](https://doi.org/10.1108/JDQS-12-2021-0031) (Open Access).
+* [Py Notebook](ipynb/ChoiEtAl2022-Fut-BachlierModel.ipynb) | Choi, J. et al. (2022). A Black-Scholes user's guide to the Bachelier model. Journal of Futures Markets (Forthcoming), DOI: [10.1002/fut.22315](https://doi.org/10.1002/fut.22315) [[arXiv](https://arxiv.org/abs/2104.08686)].
 * [Py Notebook](ipynb/ChoiWu2021-QF-NoteOnMassZero.ipynb) | Choi, J., & Wu, L. (2021). A note on the option price and 'Mass at zero in the uncorrelated SABR model and implied volatility asymptotics.' Quantitative Finance (Forthcoming). https://doi.org/10.1080/14697688.2021.1876908 
 * [Py Notebook](ipynb/ChoiWu2021-JEDC-SABR-CEV.ipynb) | Choi, J., & Wu, L. (2021). The equivalent constant-elasticity-of-variance (CEV) volatility of the stochastic-alpha-beta-rho (SABR) model. Journal of Economic Dynamics and Control, 128, 104143. https://doi.org/10.1016/j.jedc.2021.104143
 * [Py Notebook](ipynb/KrekelEtAl2004-Wilmott-BasketOption.ipynb) (partially implemented) : Krekel, M., de Kock, J., Korn, R., & Man, T.-K. (2004). An analysis of pricing methods for basket options. Wilmott Magazine, 2004(7), 82–89.
