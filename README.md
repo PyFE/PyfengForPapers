@@ -38,4 +38,4 @@ PyfengForPapers hosts a collection of the Py notebooks (`.ipynb`) that use [`PyF
 * [Notebook](ipynb/BallRoma1994-JFQA-Heston.ipynb) | Ball CA, Roma A (1994) __Stochastic Volatility Option Pricing.__ _Journal of Financial and Quantitative Analysis_ 29:589–607. DOI:[10.2307/2331111](https://doi.org/10.2307/2331111)
 * [Notebook](ipynb/SchobelZhu1999-RF-OUSV.ipynb) | Schöbel R, Zhu J (1999) __Stochastic Volatility With an Ornstein–Uhlenbeck Process: An Extension.__ _Review of Finance_ 3:23–46. DOI:[10.1023/A:1009803506170](https://doi.org/10.1023/A:1009803506170)
 * Coming Soon | Choi J (2018) __Sum of all Black-Scholes-Merton models: An efficient pricing method for spread, basket, and Asian options.__ _Journal of Futures Markets_, 38:627–644. DOI:[10.1002/fut.21909](https://doi.org/10.1002/fut.21909)
-
+* [Notebook](ipynb/BaroneAdesiEtAl2005-CSDA-UncorGarch.ipynb) | Barone-Adesi G, Rasmussen H, Ravanelli C (2005) __An option pricing formula for the GARCH diffusion model.__ _Computational Statistics & Data Analysis_ 49:287–310. DOI:[10.1016/j.csda.2004.05.014](https://doi.org/10.1016/j.csda.2004.05.014)
