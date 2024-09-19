@@ -24,6 +24,7 @@ PyfengForPapers hosts a collection of the Py notebooks (`.ipynb`) that use [`PyF
     ```
 
 ## List of Implemented Papers 
+* [Notebook](ipynb/ChoiEtAl2025-Tighter-BSIV-Bounds.ipynb) | Choi J, Huh J & Su N (2025). __Tighter 'Uniform Bounds for Black-Scholes Implied Volatility' and the applications to root-finding.__ [[arXiv](https://arxiv.org/abs/2302.08758)]
 * [Notebook](ipynb/ChoiSeo2023-SabrNorm-GaussQuad.ipynb) | Choi J & Seo BK (2023). __Option pricing under the normal SABR model with Gaussian quadratures.__ [[arXiv](https://arxiv.org/abs/2301.02797)]
 * [Notebook](ipynb/ChoiChen2022-JDQS-RiskParity.ipynb) | Choi J & Chen R (2022). __Improved iterative methods for solving risk parity portfolio.__ _Journal of Derivatives and Quantitative Studies_, 30(2), 114-124. DOI:[10.1108/JDQS-12-2021-0031](https://doi.org/10.1108/JDQS-12-2021-0031) (Open Access) [[arXiv](https://arxiv.org/abs/2203.00148)].
 * [Notebook](ipynb/ChoiEtAl2022-Fut-BachelierModel.ipynb) | Choi J et al. (2022). __A Black-Scholes user's guide to the Bachelier model.__ _Journal of Futures Markets_, 42(5), 959-980. DOI:[10.1002/fut.22315](https://doi.org/10.1002/fut.22315) [[arXiv](https://arxiv.org/abs/2104.08686)]
