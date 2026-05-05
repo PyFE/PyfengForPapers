@@ -24,6 +24,7 @@ PyfengForPapers hosts a collection of the Py notebooks (`.ipynb`) that use [`PyF
     ```
 
 ## List of Implemented Papers 
+* [Notebook](ipynb/Choi2025-ORL-OusvMC.ipynb) | Choi J (2025) __Exact simulation scheme for the Ornstein–Uhlenbeck driven stochastic volatility model with the Karhunen–Loève expansions.__ _Operations Research Letters_, 60:107280. DOI:[10.1016/j.orl.2025.107280](https://doi.org/10.1016/j.orl.2025.107280) [[arXiv](https://arxiv.org/abs/2402.09243)]
 * [Notebook](ipynb/ChoiHuhSu2024-Tighter-BSIV-Bounds.ipynb) | Choi J, Huh J & Su N (2024). __Tighter 'uniform bounds for Black–Scholes implied volatility' and the applications to root-finding.__ _Operations Research Letters_, 57, 107189. DOI:[10.1016/j.orl.2024.107189](https://doi.org/10.1016/j.orl.2024.107189) [[arXiv](https://arxiv.org/abs/2302.08758)]
 * [Notebook](ipynb/ChoiSeo2023-SabrNorm-GaussQuad.ipynb) | Choi J & Seo BK (2023). __Option pricing under the normal SABR model with Gaussian quadratures.__ [[arXiv](https://arxiv.org/abs/2301.02797)]
 * [Notebook](ipynb/ChoiChen2022-JDQS-RiskParity.ipynb) | Choi J & Chen R (2022). __Improved iterative methods for solving risk parity portfolio.__ _Journal of Derivatives and Quantitative Studies_, 30(2), 114-124. DOI:[10.1108/JDQS-12-2021-0031](https://doi.org/10.1108/JDQS-12-2021-0031) (Open Access) [[arXiv](https://arxiv.org/abs/2203.00148)].
