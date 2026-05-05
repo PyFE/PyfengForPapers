@@ -1,27 +1,5 @@
 # PyfengForPapers
-PyfengForPapers hosts a collection of the Py notebooks (`.ipynb`) that use [`PyFENG`](https://pypi.org/project/pyfeng) package to reproduce the results of financial engineering papers. This repository aims to help researchers by providing a replication for published papers. [`PyFENG`](https://pypi.org/project/pyfeng) is installed in CoLab. Or ee [PyFENG Installation](#pyfeng-installation) for local installation.
-
-## `PyFENG` Installation
-* For the first-time installation,
-  ```sh
-  pip install pyfeng
-  ```
-* For an upgrade,
-  ```sh
-  pip install --upgrade pyfeng
-  ```
-* If running on your modified implementation, 
-  * Make a local copy of [PyFENG repository](https://github.com/PyFE/PyFENG/) by forking or download
-  * Make necessary modifications
-  * Uncomment the following lines in the beginning of notebook file. Then, the local `PyFENG` will be used
-    ```py
-    %load_ext autoreload
-    %autoreload 2
-    ```
-    ``` py
-    import sys
-    sys.path.insert(sys.path.index('')+1, 'PATH_TO_LOCAL_PYFENG')
-    ```
+PyfengForPapers hosts a collection of the Py notebooks (`.ipynb`) that use [`PyFENG`](https://pypi.org/project/pyfeng) package to reproduce the results of financial engineering papers. This repository aims to help researchers by providing a replication for published papers. [`PyFENG`](https://pypi.org/project/pyfeng) is installed in CoLab. Or ee [PyFENG Installation](#pyfeng-installation) below for local installation.
 
 ## List of Implemented Papers 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PyFE/PyfengForPapers/blob/main/ipynb/Choi2025-ORL-OusvMC.ipynb) [ipynb/Choi2025-ORL-OusvMC.ipynb](ipynb/Choi2025-ORL-OusvMC.ipynb)
@@ -65,3 +43,25 @@ PyfengForPapers hosts a collection of the Py notebooks (`.ipynb`) that use [`PyF
   * Choudhury GL, Lucantoni DM (1996). __Numerical Computation of the Moments of a Probability Distribution from its Transform.__ _Operations Research_, 44:368-381 [[DOI](https://doi.org/10.1287/opre.44.2.368)]
 * Coming Soon
   * Choi J (2018). __Sum of all Black-Scholes-Merton models: An efficient pricing method for spread, basket, and Asian options.__ _Journal of Futures Markets_, 38:627–644 [[DOI](https://doi.org/10.1002/fut.21909) | [arXiv](https://arxiv.org/abs/1805.03172) | [SSRN](https://ssrn.com/abstract=2913048)]
+
+## `PyFENG` Installation
+* For the first-time installation,
+  ```sh
+  pip install pyfeng
+  ```
+* For an upgrade,
+  ```sh
+  pip install --upgrade pyfeng
+  ```
+* If running on your modified implementation, 
+  * Make a local copy of [PyFENG repository](https://github.com/PyFE/PyFENG/) by forking or download
+  * Make necessary modifications
+  * Uncomment the following lines in the beginning of notebook file. Then, the local `PyFENG` will be used
+    ```py
+    %load_ext autoreload
+    %autoreload 2
+    ```
+    ``` py
+    import sys
+    sys.path.insert(sys.path.index('')+1, 'PATH_TO_LOCAL_PYFENG')
+    ```
