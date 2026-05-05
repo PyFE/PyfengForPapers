@@ -1,5 +1,5 @@
 # PyfengForPapers
-PyfengForPapers hosts a collection of the Py notebooks (`.ipynb`) that use [`PyFENG`](https://pypi.org/project/pyfeng) package to reproduce the results of financial engineering papers. This repository aims to help researchers by providing a replication for published papers. The installation of [`PyFENG`](https://pypi.org/project/pyfeng) is required.
+PyfengForPapers hosts a collection of the Py notebooks (`.ipynb`) that use [`PyFENG`](https://pypi.org/project/pyfeng) package to reproduce the results of financial engineering papers. This repository aims to help researchers by providing a replication for published papers. [`PyFENG`](https://pypi.org/project/pyfeng) is installed in CoLab. Or ee [PyFENG Installation](#pyfeng-installation) for local installation.
 
 ## `PyFENG` Installation
 * For the first-time installation,
