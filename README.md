@@ -41,7 +41,7 @@ A collection of Jupyter notebooks (`.ipynb`) using the [`PyFENG`](https://pypi.o
   * Schöbel R, Zhu J (1999). __Stochastic Volatility With an Ornstein–Uhlenbeck Process: An Extension.__ _Review of Finance_ 3:23–46 [[DOI](https://doi.org/10.1023/A:1009803506170)]
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PyFE/PyfengForPapers/blob/main/ipynb/ChoudhuryLucantoni1996-OR-MGFtoMoments.ipynb) [notebook](ipynb/ChoudhuryLucantoni1996-OR-MGFtoMoments.ipynb)
   * Choudhury GL, Lucantoni DM (1996). __Numerical Computation of the Moments of a Probability Distribution from its Transform.__ _Operations Research_, 44:368-381 [[DOI](https://doi.org/10.1287/opre.44.2.368)]
-* _(notebook coming soon)_
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PyFE/PyfengForPapers/blob/main/ipynb/Choi2018-JFM-SumBSM.ipynb) [notebook](ipynb/Choi2018-JFM-SumBSM.ipynb)
   * Choi J (2018). __Sum of all Black-Scholes-Merton models: An efficient pricing method for spread, basket, and Asian options.__ _Journal of Futures Markets_, 38:627–644 [[DOI](https://doi.org/10.1002/fut.21909) | [arXiv](https://arxiv.org/abs/1805.03172) | [SSRN](https://ssrn.com/abstract=2913048)]
 
 ## `PyFENG` Installation
